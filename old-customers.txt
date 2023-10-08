@@ -1,0 +1,14 @@
+
+Customer ID: 121
+Name: Ajoy Sewda
+Gender: Male
+Age: 23
+Address: Sikar, Rajasthan
+Mobile No.: 2147483647
+
+Customer ID: 912
+Name: Vikas
+Gender: Male
+Age: 23
+Address: Rajasthan
+Mobile No.: 56245
